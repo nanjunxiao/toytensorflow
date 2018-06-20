@@ -44,7 +44,7 @@ with tf.Session() as sess:
     print('W: {}, b: {}'.format(w_value, b_value) )
 ```
 The APIs and performance of tensorflow vs toytensorflow are the same. The right one is toytensorflow.
-[]!(./images/linearregression_result.png)
+![](./images/linearregression_result.png)
 
 ### Todo
 * More operations
